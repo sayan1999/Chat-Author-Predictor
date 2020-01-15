@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Loading exported chats..."
+python3 WhatsApp.py
+echo "Processing text..."
+python3 process_dataframe.py
+echo "Training model..."
+python3 author_classify.py
