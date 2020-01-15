@@ -14,7 +14,7 @@ predicts the author of chat or chat-line, a model trainable from whatsapp export
 
 5. Open 'myname.json' and modify "name" value and by replacing "Sayan Dey" with <your name mentioned in your whatsapp account at the time of exporting chats>
 
-7. Automated: Change mode of the file train to executable, run it and wait.
+6. Automated: Change mode of the file train to executable, run it and wait.
 	
 In linux terminal:
 
@@ -27,7 +27,7 @@ Manual: Run the three python script in order: WhatsApp.py, process_dataframe.py,
 
 Alternative: Run the .ipynb files in jupyter or with IPython in order: WhatsApp.ipynb, process_dataframe.ipynb, author_classify.ipynb
 
-8. Open 'test.ipynb' with jupyter or ipython. 
+7. Open 'test.ipynb' with jupyter or ipython. 
 The sentence variable is a list of strings.
 
 Modify the strings to the text you think someone often says or texts and run it. It might match 
