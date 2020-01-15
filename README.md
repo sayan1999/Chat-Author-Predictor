@@ -18,7 +18,7 @@ predicts the author of chat or chat-line, a model trainable from whatsapp export
 	
 In linux terminal:
 
-```
+```bash
 chmod +x train
 ./train
 ```
