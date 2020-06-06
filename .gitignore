@@ -1,3 +1,6 @@
-dataset
+dataset/
+objects/
 .ipynb_checkpoints
-.obj
+*.obj
+*.txt
+sonali
