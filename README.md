@@ -1,6 +1,8 @@
 # Whatsapp-chat-author-classifier
 # An awesome python application, very simple to install and run
 predicts the author of chat or chat-line, a model trainable from whatsapp exportable chat texts
+
+![whatsapp](previews/WhatsApp.png?raw=true "whatsapp.jpg")
  
 # Instructions
 
